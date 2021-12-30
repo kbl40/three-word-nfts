@@ -16,6 +16,7 @@ module.exports = {
     },
   },
   etherscan: {
-    apiKey: "Q7E4MNU395S2U8126QUBPYTCP5566TR7SE",
+    // add this in
+    apiKey: "",
   }
 };
